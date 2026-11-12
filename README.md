@@ -1,2 +1,5 @@
-# tarun-mk
-Digital visiting card — TARUN MK [cb:7cb26a11-6797-4a32-b962-8522f791f345]
+# TARUN MK — Digital Visiting Card
+
+Live site: https://spectertechnologies9-automation.github.io/tarun-mk/
+
+Generated and published automatically by Digital Card Builder. Edit the card in the builder and republish rather than editing these files by hand.
